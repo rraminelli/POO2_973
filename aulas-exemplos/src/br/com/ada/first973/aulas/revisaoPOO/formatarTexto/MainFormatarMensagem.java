@@ -23,7 +23,10 @@ public class MainFormatarMensagem {
             formatador = new FormatarMensagemMaiuscula();
         } else if ("DT".equals(tipo)) {
             formatador = new FormatarMensagemComDataHora();
+        } else if ("CTR".equals(tipo)) {
+            formatador = new FormatarMensagemAoContrario();
         }
+
 
         String mensagemFormatada = formatador.formatarMensagem(mensagem);
 
