@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b6fc53d-969e-4385-b725-e2cc912e42a6" name="Changes" comment="aula 2">
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/conta-bancaria.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/ContaInvestimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/PessoaJuridica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6b6fc53d-969e-4385-b725-e2cc912e42a6" name="Changes" comment="aula 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas-exemplos/src/br/com/ada/first973/aulas/revisaoPOO/formatarTexto/MainFormatarMensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/aulas-exemplos/src/br/com/ada/first973/aulas/revisaoPOO/formatarTexto/MainFormatarMensagem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +148,7 @@
       <workItem from="1679939863689" duration="9806000" />
       <workItem from="1680102651272" duration="393000" />
       <workItem from="1680103056841" duration="103000" />
-      <workItem from="1680103170416" duration="9478000" />
+      <workItem from="1680103170416" duration="10692000" />
     </task>
     <task id="LOCAL-00001" summary="aula 1">
       <created>1679692668352</created>
@@ -181,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679951471861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="aula 3">
+      <created>1680123265886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680123265886</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aula 3">
+      <created>1680123349435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680123349435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aula 1" />
     <MESSAGE value="aula 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 2" />
+    <MESSAGE value="aula 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
