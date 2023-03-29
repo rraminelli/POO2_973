@@ -1,7 +1,5 @@
 package br.com.ada.first973.aulas.revisaoPOO.formatarTexto;
 
-import br.com.ada.first973.aulas.revisaoPOO.abstracao.*;
-
 import java.util.Scanner;
 
 public class MainFormatarMensagem {
