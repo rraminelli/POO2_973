@@ -32,4 +32,12 @@ public abstract class Conta {
         this.saldo = saldo;
     }
 
+    @Override
+    public String toString() {
+        return "Conta{" +
+                "agencia='" + agencia + '\'' +
+                ", numero='" + numero + '\'' +
+                ", saldo=" + saldo +
+                '}';
+    }
 }

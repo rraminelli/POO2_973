@@ -1,5 +1,7 @@
 package br.com.ada.first973.aulas.revisaoPOO;
 
+import br.com.ada.first973.aulas.revisaoPOO.collections.Carro;
+
 import java.util.Objects;
 
 public class TesteHashCode {
@@ -23,12 +25,11 @@ public class TesteHashCode {
         Carro carro1 = new Carro();
         carro1.setModelo("Gol");
         carro1.setMarca("Volks");
-        carro1.setTipoCarro(TipoCarro.PASSEIO);
+
 
         Carro carro2 = new Carro();
         carro2.setModelo("Gol");
         carro2.setMarca("Volks");
-        carro2.setTipoCarro(TipoCarro.PASSEIO);
 
         System.out.println("carro1 = " + carro1);
         System.out.println("carro2 = " + carro2);

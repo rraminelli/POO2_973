@@ -1,4 +1,4 @@
-package br.com.ada.first973.aulas.revisaoPOO;
+package br.com.ada.first973.aulas.revisaoPOO.collections;
 
 public class Carro {
 
