@@ -2,7 +2,7 @@ package br.com.ada.first973.aulas.revisaoPOO.collections;
 
 import java.util.ArrayList;
 
-public class AulaCollections {
+public class AulaCollectionsList {
 
     public static void main(String[] args) {
 
@@ -20,8 +20,7 @@ public class AulaCollections {
             System.out.println(carro);
         }
 
-
-
+        System.out.println(carros.get(0));
 
     }
 
