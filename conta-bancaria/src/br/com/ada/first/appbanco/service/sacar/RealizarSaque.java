@@ -4,11 +4,11 @@ import br.com.ada.first.appbanco.entity.Conta;
 
 import java.math.BigDecimal;
 
-public class SacarContaCorrente implements Sacar {
+public class RealizarSaque implements Saque {
 
     @Override
     public void sacar(Conta conta, BigDecimal valorSaque) {
-        Sacar.super.sacar(conta, valorSaque);
+        Saque.super.sacar(conta, valorSaque);
     }
 
 }
