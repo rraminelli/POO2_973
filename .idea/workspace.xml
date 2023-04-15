@@ -4,16 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b6fc53d-969e-4385-b725-e2cc912e42a6" name="Changes" comment="aula 5">
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/enums/TipoConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/main/TesteSacarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/service/sacar/Sacar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/service/sacar/SacarContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/service/sacar/SacarContaInvestimento.java" afterDir="false" />
+    <list default="true" id="6b6fc53d-969e-4385-b725-e2cc912e42a6" name="Changes" comment="aula 9">
+      <change afterPath="$PROJECT_DIR$/aulas-exemplos/src/br/com/ada/first973/aulas/revisaoPOO/TesteOverflowInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/simulador-vendas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/entity/ItemVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/entity/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/entity/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/entity/PessoaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/entity/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/entity/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/main/AppMainTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/service/produto/ProdutoEmMemoriaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/service/produto/ProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/service/venda/RealizarVendaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/service/venda/VendaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/service/venda/validacao/ValidaVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador-vendas/src/br/com/ada/simuladorvendas/service/venda/validacao/ValidaVendaEstoque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/entity/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/factory/AberturaContaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/factory/AberturaContaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/main/AbrirContaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/main/AbrirContaMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +32,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,37 +65,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.ada.first.appbanco.main" />
+      <recent name="br.com.ada.first.appbanco.factory" />
+      <recent name="br.com.ada.first.appbanco.service.depositar" />
       <recent name="br.com.ada.first973.aulas.revisaoPOO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteSacarMain">
-    <configuration name="AulaCollectionsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.first973.aulas.revisaoPOO.collections.AulaCollectionsList" />
-      <module name="aulas-exemplos" />
+  <component name="RunManager" selected="Application.TesteTransferenciaMain">
+    <configuration name="AbrirContaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.first.appbanco.main.AbrirContaMain" />
+      <module name="conta-bancaria" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.ada.first973.aulas.revisaoPOO.collections.*" />
+          <option name="PATTERN" value="br.com.ada.first.appbanco.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AulaCollectionsMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.first973.aulas.revisaoPOO.collections.AulaCollectionsMap" />
-      <module name="aulas-exemplos" />
+    <configuration name="AppMainTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.simuladorvendas.main.AppMainTeste" />
+      <module name="simulador-vendas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.ada.first973.aulas.revisaoPOO.collections.*" />
+          <option name="PATTERN" value="br.com.ada.simuladorvendas.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,25 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AulaCollectionsSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.first973.aulas.revisaoPOO.collections.AulaCollectionsSet" />
-      <module name="aulas-exemplos" />
+    <configuration name="TesteDepositarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.first.appbanco.main.TesteDepositarMain" />
+      <module name="conta-bancaria" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.ada.first973.aulas.revisaoPOO.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AulaGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.ada.first973.aulas.revisaoPOO.generics.AulaGenerics" />
-      <module name="aulas-exemplos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.ada.first973.aulas.revisaoPOO.generics.*" />
+          <option name="PATTERN" value="br.com.ada.first.appbanco.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +146,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteTransferenciaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.ada.first.appbanco.main.TesteTransferenciaMain" />
+      <module name="conta-bancaria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ada.first.appbanco.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteTransferenciaMain" />
         <item itemvalue="Application.TesteSacarMain" />
-        <item itemvalue="Application.AulaGenerics" />
-        <item itemvalue="Application.AulaCollectionsMap" />
-        <item itemvalue="Application.AulaCollectionsSet" />
-        <item itemvalue="Application.AulaCollectionsList" />
+        <item itemvalue="Application.TesteDepositarMain" />
+        <item itemvalue="Application.AbrirContaMain" />
+        <item itemvalue="Application.AppMainTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +186,8 @@
       <workItem from="1680286126080" duration="11160000" />
       <workItem from="1680544101653" duration="10460000" />
       <workItem from="1680557427465" duration="34000" />
-      <workItem from="1680688186144" duration="12586000" />
+      <workItem from="1680688186144" duration="25833000" />
+      <workItem from="1681322228598" duration="13411000" />
     </task>
     <task id="LOCAL-00001" summary="aula 1">
       <created>1679692668352</created>
@@ -232,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680557442237</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="aula 6">
+      <created>1680728915188</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680728915189</updated>
+    </task>
+    <task id="LOCAL-00010" summary="aula 9">
+      <created>1681501948126</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681501948126</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +282,9 @@
     <MESSAGE value="aula 3" />
     <MESSAGE value="aula 4" />
     <MESSAGE value="aula 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 5" />
+    <MESSAGE value="aula 6" />
+    <MESSAGE value="aula 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,6 +293,11 @@
           <url>file://$PROJECT_DIR$/aulas-exemplos/src/br/com/ada/first973/aulas/revisaoPOO/TesteHashCode.java</url>
           <line>58</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/conta-bancaria/src/br/com/ada/first/appbanco/main/TesteDepositarMain.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
